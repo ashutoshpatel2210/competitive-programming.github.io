@@ -1,2 +1,2 @@
-# competivite-programming.github.io
-Competivite Programming
+# competitive-programming.github.io
+competitive programming
